@@ -97,7 +97,7 @@ main > section, main > article {
   margin: 0;
 }
 
-.hero__btn{
+.btn {
   background-color: var(--secondary-color);
   border: none;
   padding: 12px 24px;
